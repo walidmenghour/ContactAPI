@@ -1,0 +1,36 @@
+[Inisializ the app]
+npm init -y 
+npm insatll express --save 
+
+[LINKS]
+https://mongoosejs.com/
+https://www.mongodb.com/
+
+[ Installing mongodb for the database ]
+$ npm install mongodb mongoose 
+
+[for reading and writing with out error wit babel syntex : ]
+$ npm i --save-dev babel-cli babel-preset-env babel-preset-stage-0 
+
+[ parser of json http request]
+[ nodemon is for restarting the server when we do a change ]
+$ npm install body-parser nodemon 
+=====================
+We Create index.js  
+
+and setup the listing 
+
+==============
+create structur of files 
+src 
+  models
+    crmModel.js 
+  controllers
+    crmControler.js 
+  routes 
+    crmRoutes.js  
+============
+[Link]
+https://robomongo.org/
+downlowd tools for trying [ROBO 3T]
+
